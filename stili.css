@@ -9,8 +9,8 @@
 
 .nav li{
     display:inline;
-
 }
+
 .nav a{
     display:inline-block;
     padding:20px;
@@ -28,7 +28,6 @@ h1,h2 {
     color: navy;
 }
 
-img.responsive { 
-    max-width: 100%;
-    heigth: auto;
- }
+.flex {
+    max-width: 100%
+}
