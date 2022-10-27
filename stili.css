@@ -28,3 +28,7 @@ h1,h2 {
     color: navy;
 }
 
+img.responsive { 
+    max-width: 100%;
+    heigth: auto;
+ }
